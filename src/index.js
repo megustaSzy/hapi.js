@@ -10,7 +10,7 @@ const init = async () => {
     method: "GET",
     path: "/",
     handler: (request, h) => {
-      return "Raditya Ahmad Ganteng";
+      return "Raditya Ahmad Ganteng bgt uy";
     },
   });
 
